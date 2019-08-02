@@ -9,7 +9,7 @@ import java.io.Serializable;
  */
 public class User implements Serializable {
     private String username;//用户名
-    private String password;
+    private String password;//密码
 
     @Override
     public String toString() {
