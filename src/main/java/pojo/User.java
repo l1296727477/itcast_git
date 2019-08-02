@@ -8,8 +8,8 @@ import java.io.Serializable;
  * @Version 2018.1.1
  */
 public class User implements Serializable {
-    private String username;//用户名
-    private String password;//密码
+    private String username;//用户名sssssssss
+    private String password;//密码sssssssssssssssssssssss
 
     @Override
     public String toString() {
