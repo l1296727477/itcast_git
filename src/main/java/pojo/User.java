@@ -8,7 +8,7 @@ import java.io.Serializable;
  * @Version 2018.1.1
  */
 public class User implements Serializable {
-    private String username;
+    private String username;//用户名
     private String password;
 
     @Override
